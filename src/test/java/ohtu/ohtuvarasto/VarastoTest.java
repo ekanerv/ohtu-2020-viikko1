@@ -32,6 +32,7 @@ public class VarastoTest {
         saldollinenNollavarasto = new Varasto(-100, 50);
         negSaldollinen = new Varasto(10, -3);
     }
+    
 
     @Test
     public void konstruktoriLuoTyhjanVaraston() {
